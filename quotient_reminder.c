@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main() {
     int dividend, divisor, quotient, remainder;
-    printf("Enter dividend: ");
+    printf("Enter a dividend: ");
     scanf("%d", &dividend);
-    printf("Enter divisor: ");
+    printf("Enter a divisor: ");
     scanf("%d", &divisor);
 
     
