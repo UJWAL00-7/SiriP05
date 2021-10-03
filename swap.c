@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main() {
   double first, second, temp;
-  printf("Enter first number: ");
+  printf("Enter the first number: ");
   scanf("%lf", &first);
-  printf("Enter second number: ");
+  printf("Enter the second number: ");
   scanf("%lf", &second);
 
  
